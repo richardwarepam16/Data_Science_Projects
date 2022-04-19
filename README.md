@@ -4,13 +4,13 @@ This is a repository where I stored all my data science projects.
 
 # Libraries Used:
 
-1. Data Analysis:
+Data Analysis:
   1. Panda
   2. Numpy
-2. Data Visualization:
+Data Visualization:
   1. Matplotlib.pyplot
   2. Seaborn
-3. Scikit Learn Library.
+Scikit Learn Library.
 
 # Contents:
 1. Linear Regression.
