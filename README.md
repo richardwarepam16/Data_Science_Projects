@@ -18,4 +18,7 @@ Scikit Learn Library.
 1. Linear Regression.
 2. Logistic Regression.
 3. K Nearest Neighbors.
-4. Will be continued and add more......
+4. Decison Tree.
+5. Random Forest.
+6. Movie Recommendation System - Recommender System
+7. And, many more to come...
