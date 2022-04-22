@@ -21,4 +21,6 @@ Scikit Learn Library.
 4. Decison Tree.
 5. Random Forest.
 6. Movie Recommendation System - Recommender System
-7. And, many more to come...
+7. Fake News Detection 
+8. Breast Cancer Classification - SVM and GridSerachCV
+9. Many more to come...
